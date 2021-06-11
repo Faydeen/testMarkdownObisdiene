@@ -4,3 +4,4 @@ link /url http://google.fr
 test
 test2
 oops
+link https://google.fr

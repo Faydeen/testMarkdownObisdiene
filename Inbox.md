@@ -5,3 +5,4 @@ test
 test2
 oops
 link https://google.fr
+link https://test.fr
